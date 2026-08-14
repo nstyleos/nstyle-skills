@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "nstyle-skills",
+  "description": "Skills from NStyle — practical checklists pulled out of real production work, not theory.",
+  "owner": {
+    "name": "NStyle",
+    "url": "https://www.nstyleos.kr"
+  },
+  "plugins": [
+    {
+      "name": "shorts-composition",
+      "description": "Vertical 9:16 composition check for short-form content (Shorts, Reels, TikTok). Separates real-camera framing from AI-generated framing, because the subject-placement rule is opposite in each case: a phone's wide lens forces the face to the center, while a generated image has no lens and should use the thirds line.",
+      "author": {
+        "name": "NStyle"
+      },
+      "category": "content",
+      "source": "./plugins/shorts-composition",
+      "homepage": "https://github.com/nstyleos/nstyle-skills"
+    }
+  ]
+}

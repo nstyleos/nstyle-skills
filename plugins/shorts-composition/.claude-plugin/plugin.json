@@ -1,0 +1,12 @@
+{
+  "name": "shorts-composition",
+  "description": "Vertical 9:16 composition check for short-form content. Separates real-camera framing from AI-generated framing, because the subject-placement rule is opposite in each case.",
+  "version": "0.1.0",
+  "author": {
+    "name": "NStyle",
+    "url": "https://www.nstyleos.kr"
+  },
+  "homepage": "https://github.com/nstyleos/nstyle-skills",
+  "license": "MIT",
+  "keywords": ["shorts", "reels", "tiktok", "composition", "vertical", "9:16", "video", "photography", "image-generation"]
+}
