@@ -47,6 +47,8 @@ Also included: why *"cropping 16:9 down to 9:16"* is the wrong fix, and why a fa
 > 해답은 더 나은 크롭이 아니라 **처음부터 9:16으로 생성하는 것**이었습니다.
 > **짤림은 증상이고, 병은 구도의 부재였습니다.**
 
+사례와 그림으로 풀어 쓴 글: [쇼츠 만들면 얼굴이 잘리는 이유 — 세로 영상 구도, 실사와 AI는 규칙이 반대입니다](https://www.nstyleos.kr/blog/shorts-composition)
+
 ---
 
 ## License
